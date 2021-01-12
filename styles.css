@@ -1,0 +1,76 @@
+body{
+  /* background-color: darkcyan; */
+  /* background-color:rgba(255, 255, 0, 0.158); */
+  background-image: url("./images/tumblr_500.png");
+  background-size: 600px;
+  background-repeat:no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* .pic{
+    display: flex;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+} */
+
+.kc{
+  text-align: center;
+  font-family: 'Gaegu', cursive;
+  font-size: 50px;
+  color: red;
+  /* background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  color: transparent;
+  -webkit-background-clip: text; */
+}
+
+.intro{
+  text-align: center;
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+
+.bio{
+  display: flex;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 80px;
+  font-family: 'Gaegu', cursive;
+  font-size: 65px;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  color: transparent;
+  -webkit-background-clip: text;
+}
+
+.audio{
+    display: flex;
+    padding-top: 30px;
+  padding-right: 30px;
+  /* padding-bottom: 2px; */
+  padding-left: 80px;
+}
+
+.ins{
+  display: flex;
+  /* padding-top: 2px; */
+padding-right: 30px;
+padding-bottom: 15px;
+padding-left: 80px;
+font-family: 'East Sea Dokdo', cursive;
+font-size: 40px;
+background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+color: transparent;
+-webkit-background-clip: text;
+}
+
+.kc{
+  justify-content: center;
+}
+
+
+  

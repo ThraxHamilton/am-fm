@@ -42,7 +42,7 @@ body{
   padding-left: 80px;
   font-family: 'Gaegu', cursive;
   font-size: 45px;
-  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  background-image: linear-gradient(to left, violet, purple, blue, rgb(216, 0, 169), rgb(255, 0, 149), orange, red);
   color: transparent;
   -webkit-background-clip: text;
 }
@@ -63,7 +63,7 @@ padding-bottom: 15px;
 padding-left: 80px;
 font-family: 'East Sea Dokdo', cursive;
 font-size: 40px;
-background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+background-image: linear-gradient(to right, violet, purple, blue, rgb(216, 0, 169), rgb(255, 0, 149), orange, red);
 color: transparent;
 -webkit-background-clip: text;
 }
